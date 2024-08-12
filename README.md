@@ -26,6 +26,13 @@ Or add the following to your `.browserslistrc`:
 extends @moonjellydigital/browserslist-config
 ```
 
+Or if your build transforms a browserslist config to other targets, you can
+import the config directly into your script:
+
+```js
+import config from '@moonjellydigital/browserslist-config';
+```
+
 ## License
 
 [MIT](./LICENSE)
