@@ -1,0 +1,9 @@
+{
+  "include": ["index.js", "index.cjs"],
+  "compilerOptions": {
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "declarationMap": true
+  }
+}

@@ -198,3 +198,8 @@ coverage
 
 # Build
 index.cjs
+index.d.cts
+index.d.cts.map
+index.d.ts
+index.d.ts.map
+
